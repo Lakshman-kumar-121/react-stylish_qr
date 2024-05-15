@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo 
-Demo Available here : [https://krishnadeveloper.github.io/react-qr-code-style/index.html](https/index.html)
+Demo Available here : [https://lakshman-kumar-121-github.io/react-qr-code-style/index.html](https/index.html)
 
 ## Available Options
 
